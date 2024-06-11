@@ -1,0 +1,21 @@
+[Bb]in/
+[Oo]bj/
+netcoreapp3.1/
+
+*.nupkg
+*.cache
+*.suo
+_ReSharper*
+*/publish/*
+*/*/publish/*
+*.orig
+**/*.user
+**/Packages/*
+
+#MSBuild logs
+**/*.log
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+.idea/
